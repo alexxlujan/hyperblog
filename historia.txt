@@ -1,1 +1,1 @@
-Hola soy Alejandro y estoy practicando git
+Hola soy Alejandro y estoy usando git
